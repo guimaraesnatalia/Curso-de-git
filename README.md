@@ -1,5 +1,5 @@
 # Blogs de taubaté repo
 
-![./taubaté.jpg](O povo de taubaté)
+![O povo de taubaté](./taubaté.jpg)
 
 Este repositório envia informações relevantes para o Github
